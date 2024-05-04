@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a college student passionate about technology and eager to learn new things.<br><br>🌱 Currently, I'm studying computer science at GCET_KASHMIR<br><br>💡 I'm interested in a wide range of tech topics, including:<br>- Web Development<br>- Artificial Intelligence<br>- Mobile App Development<br>- Open Source Contributions<br>- 
+🎓 I'm a college student passionate about technology and eager to learn new things.<br><br>🌱 Currently, I'm studying computer science at GCET_KASHMIR<br><br>💡 I'm interested in a wide range of tech topics, including:<br>-Python developer<br>- Web Development<br>- Artificial Intelligence<br>- Mobile App Development<br>- Open Source Contributions<br>-AI-ML 
 
 
 ## 🌐 Socials:
