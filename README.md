@@ -1,6 +1,9 @@
-# 💫 About Me:
-🎓 I'm a college student passionate about technology and eager to learn new things.<br><br>🌱 Currently, I'm studying computer science at GCET_KASHMIR<br><br>💡 I'm interested in a wide range of tech topics, including:<br>-Python developer<br>- Web Development<br>- Artificial Intelligence<br>- Mobile App Development<br>- Open Source Contributions<br>-AI-ML 
-
+# 💫 About Me:<br><br>
+🎓 College student passionate about technology | Studying Computer Science at GCET_KASHMIR<br><br>
+🌟 Exploring DSA, Java, Web Development, AI/ML, and App Development<br><br>
+🚀 Currently learning the MERN stack and building exciting projects<br><br>
+💻 Python Developer | Open Source Contributor | Hackathon Enthusiast<br><br>
+🌱 Always eager to learn, grow, and create impactful solutions<br><br>
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Ishfaq_24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ishfaqknows) 
