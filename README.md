@@ -47,23 +47,47 @@ class IshfaqNazir:
 
 ## 🛠️ Tech Stack
 
-### **Frontend Development**
+### 🚀 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,redux,materialui,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,sass,vite,jquery&perline=12" />
 </p>
 
-### **Backend Development**
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman,fastapi,django,flask&perline=12" />
 </p>
 
-### **Database & APIs**
+### 🗄️ Database & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,prisma,sqlite&perline=12" />
 </p>
 
-### **DevOps & Tools**
+### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=12" />
 </p>
-<!--
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify,nginx,linux&perline=12" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,bash,powershell,notion&perline=12" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php,go&perline=12" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart&perline=12" />
+</p>
+
+### 🔐 Security & Networking
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,wireshark&perline=12" />
+</p>
